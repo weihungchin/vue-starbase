@@ -1,0 +1,14 @@
+body{
+    background:#263238;
+}
+
+#app{
+    font-family: 'Avenir', Arial, Helvetica, sans-serif;
+    color:white;
+    text-align:center;
+    margin-top:50px;
+}
+
+.btn{
+    cursor:pointer;
+}
